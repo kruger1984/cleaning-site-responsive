@@ -16,5 +16,5 @@ This project is a website for a company offering cleaning services. The site is 
 
 - **HTML, CSS, and JavaScript Usage:** The project utilizes core web development technologies to create an interactive and visually appealing interface.
 
-## Getting Started
+
 
