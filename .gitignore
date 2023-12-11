@@ -1,0 +1,7 @@
+# Игнорировать папку node_modules
+node_modules/
+
+# Игнорировать файлы в корне проекта
+gulpfile.js
+package-lock.json
+package.json
